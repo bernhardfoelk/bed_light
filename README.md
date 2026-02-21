@@ -2,6 +2,9 @@
 
 This is a custom, web-controlled under-bed lighting system built with an ESP32 and WS2812B NeoPixels. 
 
+![BedLight](images/BedLight.png)
+![Webinterface](images/Webinterface.png)
+
 ## 🚀 Why this is more than just an LED strip
 I wanted a system that feels "premium"—no flickering, no blocking, and a clean way to control it from any device in the local network.
 
